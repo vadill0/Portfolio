@@ -5,3 +5,10 @@ C:\Users\aitor\source\repos\Keylogger\Keylogger\obj\Debug\Keylogger.csproj.Assem
 C:\Users\aitor\source\repos\Keylogger\Keylogger\obj\Debug\Keylogger.csproj.CoreCompileInputs.cache
 C:\Users\aitor\source\repos\Keylogger\Keylogger\obj\Debug\Keylogger.exe
 C:\Users\aitor\source\repos\Keylogger\Keylogger\obj\Debug\Keylogger.pdb
+C:\Users\aitor\Malware\Keylogger\Keylogger\bin\Debug\Keylogger.exe.config
+C:\Users\aitor\Malware\Keylogger\Keylogger\bin\Debug\Keylogger.exe
+C:\Users\aitor\Malware\Keylogger\Keylogger\bin\Debug\Keylogger.pdb
+C:\Users\aitor\Malware\Keylogger\Keylogger\obj\Debug\Keylogger.csproj.AssemblyReference.cache
+C:\Users\aitor\Malware\Keylogger\Keylogger\obj\Debug\Keylogger.csproj.CoreCompileInputs.cache
+C:\Users\aitor\Malware\Keylogger\Keylogger\obj\Debug\Keylogger.exe
+C:\Users\aitor\Malware\Keylogger\Keylogger\obj\Debug\Keylogger.pdb

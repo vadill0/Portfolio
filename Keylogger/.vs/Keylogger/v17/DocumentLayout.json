@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\aitor\\source\\repos\\Keylogger\\",
+  "WorkspaceRootPath": "C:\\Users\\aitor\\Malware\\Keylogger\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1335B6CA-2A78-42D7-A063-083A7B892112}|Keylogger\\Keylogger.csproj|c:\\users\\aitor\\source\\repos\\keylogger\\keylogger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1335B6CA-2A78-42D7-A063-083A7B892112}|Keylogger\\Keylogger.csproj|c:\\users\\aitor\\malware\\keylogger\\keylogger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1335B6CA-2A78-42D7-A063-083A7B892112}|Keylogger\\Keylogger.csproj|solutionrelative:keylogger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\aitor\\source\\repos\\Keylogger\\Keylogger\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\aitor\\Malware\\Keylogger\\Keylogger\\Program.cs",
               "RelativeDocumentMoniker": "Keylogger\\Program.cs",
-              "ToolTip": "C:\\Users\\aitor\\source\\repos\\Keylogger\\Keylogger\\Program.cs",
+              "ToolTip": "C:\\Users\\aitor\\Malware\\Keylogger\\Keylogger\\Program.cs",
               "RelativeToolTip": "Keylogger\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-06T16:14:10.24Z",
               "EditorCaption": ""
